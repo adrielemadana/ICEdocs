@@ -20,6 +20,12 @@ Queremos ser referência nacional em apoio alimentar e promoção da saúde inte
 
 ## Programas  
 
+### Raízes do Amor  
+Nosso programa principal, que oferece suporte alimentar e nutricional para famílias neurodivergentes, garantindo acesso a refeições plant-based nutritivas, sem alérgenos e acessíveis. Além disso, promovemos educação alimentar, autonomia e inclusão social para mães solo e cuidadores.  
+
+**Atividades:** Distribuição de refeições, oficinas de educação alimentar, suporte comunitário e pesquisas científicas sobre a relação entre alimentação e neurodivergência.  
+**Público-Alvo:** Famílias periféricas com crianças neurodivergentes, priorizando mães solo não-brancas.
+
 ### Memórias da Terra  
 Documentação e transformação de receitas afetivas, preservando memórias culturais através da gastronomia sustentável.  
 
@@ -68,6 +74,12 @@ Our work includes:
 We aim to become a national reference in food support and holistic health promotion for neurodivergent and marginalized communities. To achieve this, we seek partners and donors who believe in social transformation through nutrition, education, and inclusion.  
 
 ## Programs  
+
+### Roots of Love  
+Our flagship program, providing nutritional support for neurodivergent families by ensuring access to healthy, allergen-free, plant-based meals. We also promote food education, autonomy, and social inclusion for single mothers and caregivers.  
+
+**Activities:** Meal distribution, food education workshops, community support, and scientific research on the link between diet and neurodivergence.  
+**Target Audience:** Underserved families with neurodivergent children, prioritizing single non-white mothers.
 
 ### Soil Memories (Memórias da Terra)  
 Documentation and transformation of affective recipes, preserving cultural memories through sustainable gastronomy.  
