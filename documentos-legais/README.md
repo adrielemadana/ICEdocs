@@ -1,13 +1,11 @@
-## Português  
-Esta pasta contém os documentos legais do Instituto Carvalho Emenekwum, incluindo:  
+Esta pasta contém os documentos legais do Instituto Carvalho Emenekwum.  
+This folder contains legal documents from Carvalho Emenekwum Institute.
 
-- Estatuto Social  
-- Atas de Assembleias  
-- Outros documentos oficiais  
+## Documentos Disponíveis / Available Documents:
 
-## English  
-This folder contains the legal documents of the Carvalho Emenekwum Institute, including:  
+- Estatuto Social (Português) / Bylaws (Portuguese)  
+  - English version coming soon
 
-- Bylaws  
-- Assembly Minutes  
-- Other official documents  
+## Próximos Documentos / Upcoming Documents:
+- Atas de Assembleias / Assembly Minutes
+- Outros documentos oficiais / Other official documents"
