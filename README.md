@@ -8,11 +8,10 @@ O Instituto Carvalho Emenekwum (ICE) é uma associação sem fins lucrativos com
 
 Nosso trabalho inclui:
 
-- **Fornecimento de refeições nutritivas**: Sem alérgenos e à base de plantas, priorizando famílias periféricas chefiadas por mães solo não-brancas.  
-- **Pesquisa científica**: Parcerias com universidades para estudar a relação entre saúde intestinal, neurodivergência e regulação cerebral.  
-- **Educação nutricional**: Workshops e materiais acessíveis para famílias e cuidadores.  
+- **Educação nutricional**: Workshops e materiais acessíveis sobre alimentação sem alérgenos e à base de plantas, priorizando famílias periféricas chefiadas por mães solo não-brancas.  
 - **Empreendedorismo e geração de renda**: Capacitação para pessoas periféricas, priorizando mães solo não-brancas.  
-- **Programas educacionais, culturais e esportivos**: Promoção da saúde, inclusão social e autonomia.  
+- **Programas educacionais, culturais e esportivos**: Promoção da saúde, inclusão social e autonomia.
+- **Pesquisa científica**: Parcerias com universidades para estudar a relação entre saúde intestinal, neurodivergência e regulação cerebral.  
 - **Combate à opressão estrutural**: Valorização de saberes tradicionais não-europeus e fomento de práticas decoloniais.  
 - **Parcerias estratégicas**: Influência em políticas públicas e garantia da sustentabilidade dos projetos.  
 
@@ -21,9 +20,9 @@ Queremos ser referência nacional em apoio alimentar e promoção da saúde inte
 ## Programas  
 
 ### Raízes do Amor  
-Nosso programa principal, que oferece suporte alimentar e nutricional para famílias neurodivergentes, garantindo acesso a refeições plant-based nutritivas, sem alérgenos e acessíveis. Além disso, promovemos educação alimentar, autonomia e inclusão social para mães solo e cuidadores.  
+Nosso programa principal, que oferece suporte de educação alimentar e nutricional para famílias neurodivergentes, sobre como preparar refeições nutritivas, sem alérgenos, à base de plantas e acessíveis, promovendo autonomia e inclusão social para mães solo e cuidadores.  
 
-**Atividades:** Distribuição de refeições, oficinas de educação alimentar, suporte comunitário e pesquisas científicas sobre a relação entre alimentação e neurodivergência.  
+**Atividades:** Oficinas de educação alimentar, fornecimento de ingredientes essenciais para famílias participantes, suporte comunitário e pesquisas científicas sobre a relação entre alimentação e neurodivergência.  
 **Público-Alvo:** Famílias periféricas com crianças neurodivergentes, priorizando mães solo não-brancas.
 
 ### Memórias da Terra  
