@@ -62,23 +62,22 @@ The Carvalho Emenekwum Institute (ICE) is a nonprofit association based in São 
 
 Our work includes:  
 
-- **Providing nutritious meals**: Allergen-free and plant-based, prioritizing single non-white mothers and their children.  
-- **Scientific research**: Collaborations with universities to study the link between gut health, neurodivergence, and brain regulation.  
-- **Nutritional education**: Workshops and accessible materials for families and caregivers.  
-- **Entrepreneurship and income generation**: Training for marginalized communities, prioritizing single non-white mothers.  
-- **Educational, cultural, and sports programs**: Promoting health, social inclusion, and autonomy.  
-- **Fighting structural oppression**: Valuing non-European traditional knowledge and fostering decolonial practices.  
-- **Strategic partnerships**: Influencing public policies and ensuring the sustainability of our projects.  
+- **Nutritional education**: Workshops and accessible materials on allergen-free and plant-based diets, prioritizing families in peripheral areas headed by non-white single mothers.
+- **Entrepreneurship and income generation**: Training for people in peripheral areas, prioritizing non-white single mothers.
+- **Educational, cultural and sports programs**: Promoting health, social inclusion and autonomy.
+- **Scientific research**: Partnerships with universities to study the relationship between intestinal health, neurodivergence and brain regulation.
+- **Combating structural oppression**: Valuing traditional non-European knowledge and fostering decolonial practices.
+- **Strategic partnerships**: Influencing public policies and ensuring the sustainability of projects.
 
 We aim to become a national reference in food support and holistic health promotion for neurodivergent and marginalized communities. To achieve this, we seek partners and donors who believe in social transformation through nutrition, education, and inclusion.  
 
 ## Programs  
 
 ### Roots of Love  
-Our flagship program, providing nutritional support for neurodivergent families by ensuring access to healthy, allergen-free, plant-based meals. We also promote food education, autonomy, and social inclusion for single mothers and caregivers.  
+Our flagship program provides nutrition and food education support to neurodivergent families on how to prepare nutritious, allergen-free, plant-based, and affordable meals, while promoting autonomy and social inclusion for single mothers and caregivers.
 
-**Activities:** Meal distribution, food education workshops, community support, and scientific research on the link between diet and neurodivergence.  
-**Target Audience:** Underserved families with neurodivergent children, prioritizing single non-white mothers.
+**Activities:** Nutrition education workshops, provision of essential ingredients to participating families, community support, and scientific research on the relationship between food and neurodivergence.
+**Target audience:** Families in peripheral areas with neurodivergent children, prioritizing single non-white mothers.
 
 ### Soil Memories (Memórias da Terra)  
 Documentation and transformation of affective recipes, preserving cultural memories through sustainable gastronomy.  
